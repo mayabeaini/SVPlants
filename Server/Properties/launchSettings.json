@@ -1,0 +1,17 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true
+  },
+  "profiles": {
+    "TodoApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/SVPlantItems",
+      "applicationUrl": "http://localhost:2238",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

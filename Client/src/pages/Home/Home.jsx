@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import ListOfPlants from "../../components/ListOfPlants/ListOfPlants";
 import StatusBar from "../../components/StatusBar/StatusBar";
 // import axios from "axios";
+// Possible bug: if refresh page in mid watering: status won't change after 30 secs
+// unless logic becomes in the backend
 
 let clearTimeoutVariable;
 export default class Home extends Component {
@@ -44,8 +46,9 @@ export default class Home extends Component {
       ],
     });
     // axios
-    //   .get("https://localhost:5001/api/SVPlants")
+    //   .get("http://localhost:19174/api/TodoItems")
     //   .then((res) =>
+    //   // console.log(res.data)
     //     this.setState({
     //       plantInfo: res.data,
     //     })

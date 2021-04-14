@@ -1,5 +1,8 @@
 import React from "react";
 
+//////////////////////////////////
+// ADD MORE DETAILS TO STATUS
+/////////////////////////////////
 export default function StatusBar() {
   return (
     <div

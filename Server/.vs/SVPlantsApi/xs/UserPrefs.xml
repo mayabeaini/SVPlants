@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8CA9F253-4388-4ADE-874D-46D98B9B2CFF}|TodoApi">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SVPlantsController.cs">
+    <Files>
+      <File FileName="Controllers/SVPlantController.cs" Line="46" Column="10" />
+      <File FileName="Models/SVPlant.cs" Line="10" Column="6" />
+      <File FileName="Models/SVPContext.cs" Line="12" Column="42" />
+      <File FileName="Startup.cs" Line="25" Column="80" />
+      <File FileName="Program.cs" Line="10" Column="19" />
+      <File FileName="Properties/launchSettings.json" Line="10" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SVPlantsApi" expanded="True">
+            <Node name="SVPlantsApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SVPlantsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SVPlantsApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
