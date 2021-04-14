@@ -50,3 +50,9 @@
 /Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/obj/Debug/net5.0/ref/SVPlantsApi.dll
 /Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/obj/Debug/net5.0/SVPlantsApi.pdb
 /Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/obj/Debug/net5.0/SVPlantsApi.genruntimeconfig.cache
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/System.Web.Cors.dll
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/System.Web.Http.dll
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/System.Web.Http.Cors.dll
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mayabeaini/ShipVistaPlants-MayaBeaini/ShipVistaPlants-MayaBeaini/Server/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll

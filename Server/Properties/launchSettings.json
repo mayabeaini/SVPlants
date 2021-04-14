@@ -4,7 +4,7 @@
     "anonymousAuthentication": true
   },
   "profiles": {
-    "TodoApi": {
+    "SVPlantsApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/SVPlantItems",
