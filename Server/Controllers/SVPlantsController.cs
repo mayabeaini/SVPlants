@@ -21,26 +21,26 @@ namespace SVPlantsApi.Controllers
             _context = context;
         }
         #endregion
-        //List<SVPlantItem> empList = new List<SVPlantItem>
-        //{
-        //    new SVPlantItem{Id=101,PlantName="Bacopa",PlantStatus="Water",Timestamp=1618427341396},
+        List<SVPlantItem> empList = new List<SVPlantItem>
+        {
+            new SVPlantItem{Id=101,PlantName="Bacopa",PlantStatus="Water",Timestamp=1618427341396},
 
-        //    new SVPlantItem{Id=102,PlantName="Daylily",PlantStatus="Must Water",Timestamp=1618427341396},
+            new SVPlantItem{Id=102,PlantName="Daylily",PlantStatus="Must Water",Timestamp=1618427341396},
 
-        //    new SVPlantItem{Id=103,PlantName="Petunia",PlantStatus="Water",Timestamp=1618427341396},
+            new SVPlantItem{Id=103,PlantName="Petunia",PlantStatus="Water",Timestamp=1618427341396},
 
-        //    new SVPlantItem{Id=104,PlantName="Peony",PlantStatus="Water",Timestamp=1618427341396},
+            new SVPlantItem{Id=104,PlantName="Peony",PlantStatus="Water",Timestamp=1618427341396},
 
-        //    new SVPlantItem{Id=105,PlantName="Sunflower",PlantStatus="Must Water",Timestamp=1618427341396}
-        //};
+            new SVPlantItem{Id=105,PlantName="Sunflower",PlantStatus="Must Water",Timestamp=1618427341396}
+        };
 
         // GET: api/SVPlants
         [HttpGet]
         public async Task<ActionResult<IEnumerable<SVPlantItem>>> GetSVPlantItems()
         {
-            //return empList;
+            return empList;
 
-            return await _context.SVPlantItems.ToListAsync();
+            //return await _context.SVPlantItems.ToListAsync();
         }
 
         // GET: api/SVPlants/5

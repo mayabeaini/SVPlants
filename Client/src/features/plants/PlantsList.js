@@ -9,8 +9,17 @@ export const PlantsList = () => {
 
   return (
     <section>
-      <h2>Plants</h2>
-      <div style={{display:"flex", justifyContent: "space-evenly", flexWrap: "wrap", margin: "50px"}}>{renderedPlants}</div>
+      <h2 style={{ marginLeft: '60px', marginTop: '40px' }}>Plants</h2>
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'space-evenly',
+          flexWrap: 'wrap',
+          margin: '30px',
+        }}
+      >
+        {renderedPlants}
+      </div>
     </section>
   )
 }
