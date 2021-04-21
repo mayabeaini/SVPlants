@@ -1,3 +1,12 @@
+Further instructions to avoid recent front-end error:
+
+Step 1. In terminal, in the Client folder, put this command in:
+            npm uninstall faker
+Step 2. In terminal: 
+            npm i faker --dev
+            
+
+
 Hello!
 
 I hope you are well and sorry in advance for any and all messes you'll see...
